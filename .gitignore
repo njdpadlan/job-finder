@@ -21,6 +21,12 @@ scripts/google-token.json
 scripts/google-sheet-id.txt
 scripts/jobs-data.json
 
+# Dashboard build output
+dashboard/client/dist/
+
+# Personal task notes
+task.mkd
+
 # OS
 .DS_Store
 Thumbs.db
