@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Personal documents — resumes, cover letters, source PDFs
+output/
+resource/
+
+# Environment variables — contains personal info, never commit
+.env
+
+# Claude Code project config — contains personal profile and contact details
+.claude/
+CLAUDE.md
+
+# Memory files
+memory/
+
+# Google API credentials and tokens — never commit
+scripts/google-credentials.json
+scripts/google-token.json
+scripts/google-sheet-id.txt
+scripts/jobs-data.json
+
+# OS
+.DS_Store
+Thumbs.db
